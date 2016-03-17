@@ -10,7 +10,7 @@ git clone https://github.com/archbox-linux/grub2-theme-archbox.git
 
 2. Put the folder 'archbox' wherever you want
 
-3. Add following line to **/etc/default/grub** (replacing *<your-path>*): 
+3. Add following line to **/etc/default/grub** (replacing *\<your-path\>*): 
 
 ```
 GRUB_THEME="<your-path>/archbox/theme.txt"

@@ -10,7 +10,7 @@
 2. Put the folder 'archbox' wherever you want
 
 3. Add following line to **/etc/default/grub** (replacing *\<your-path\>*): 
-   ```
+   ```bash
    GRUB_THEME="<your-path>/archbox/theme.txt"
    ```
 

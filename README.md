@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. Clone this [repo](https://github.com/archbox-linux/grub2-theme-archbox.git)
+1. Clone this repo
    ```
    git clone https://github.com/archbox-linux/grub2-theme-archbox.git
    ```
